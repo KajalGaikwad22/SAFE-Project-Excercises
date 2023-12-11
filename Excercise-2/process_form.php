@@ -1,6 +1,6 @@
 <?php
 $host = "localhost";
-$port = "5432";  // Default PostgreSQL port
+$port = "5432";  
 $dbname = "PDdb";
 $user = "postgres";
 $password = "Kajal@701";
