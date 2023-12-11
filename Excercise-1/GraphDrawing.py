@@ -53,7 +53,7 @@ def plot_pie_chart(data, labels, sizes, title):
     plt.title(title)
     plt.show()
 
-# Example usage
+
 file_path = "US Deaths - Sheet1.csv"
 csv_data = load_csv_data(file_path)
 
